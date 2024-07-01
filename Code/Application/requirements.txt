@@ -1,0 +1,4 @@
+flask
+streamlit
+flask_sqlalchemy
+requests
